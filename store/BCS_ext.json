@@ -1,0 +1,155 @@
+{
+    "About": {
+        "ID": "BCS",
+        "Name": "Barclays PLC",
+        "Unique ID": "ae917875-7dd2-329c-b80c-1f5b9f34882e",
+        "Industry": "Banks - Diversified",
+        "Sector": "Financial Services",
+        "Full Time employees": "93000",
+        "Website": "https://home.barclays",
+        "Investor Website": "",
+        "Exchange": "NYQ"
+    },
+    "Finance": {
+        "Date & Time": "2025-09-17 01:30:02",
+        "Current Price": "20.63 $",
+        "Market Cap": "73012248576 $",
+        "Total Revenue": "25653999616 $",
+        "Revenue Growth": "13.10 %",
+        "Profit Growth": "38.60 %",
+        "Dividend Rate": 0.45,
+        "Dividend Yield": 0.0217,
+        "Date of Last Dividend": "2025-08-08 05:30:00",
+        "Five Years Average Dividend Yield": 2.97,
+        "Currency": "USD"
+    },
+    "Location": {
+        "Address": "1 Churchill Place",
+        "City": "London",
+        "State": "",
+        "Country": "United Kingdom",
+        "Contact": "44 20 7116 1000"
+    },
+    "Ownership Structure": "Public",
+    "Growth": [
+        {
+            "Period": "0q",
+            "End Date": "2025-09-30",
+            "Growth": {}
+        },
+        {
+            "Period": "+1q",
+            "End Date": "2025-12-31",
+            "Growth": 1.1034
+        },
+        {
+            "Period": "0y",
+            "End Date": "2025-12-31",
+            "Growth": 0.37330002
+        },
+        {
+            "Period": "+1y",
+            "End Date": "2026-12-31",
+            "Growth": 0.22709998
+        }
+    ],
+    "Buyer Group": [
+        {
+            "Name": "Nealon (Denny)",
+            "Relation": "",
+            "Shares": "21",
+            "Description": "Bought at price 19.94 per share.",
+            "Date": "2025-09-08"
+        },
+        {
+            "Name": "Nealon (Denny)",
+            "Relation": "",
+            "Shares": "38",
+            "Description": "Bought at price 18.13 per share.",
+            "Date": "2025-06-09"
+        },
+        {
+            "Name": "Nealon (Denny)",
+            "Relation": "",
+            "Shares": "8",
+            "Description": "Bought at price 13.43 per share.",
+            "Date": "2025-04-08"
+        },
+        {
+            "Name": "Deasy (Cathal)",
+            "Relation": "",
+            "Shares": "185862",
+            "Description": "Sold at price 3.78 per share.",
+            "Date": "2025-03-14"
+        },
+        {
+            "Name": "Venkatakrishnan (C S)",
+            "Relation": "",
+            "Shares": "171084",
+            "Description": "",
+            "Date": "2025-03-13"
+        }
+    ],
+    "Mutual Fund Holders": [
+        {
+            "Date": "2025-04-30",
+            "Name": "Dimensional ETF Trust-Dimensional International Value ETF",
+            "Holding": 0.00059999997,
+            "Shares": 2063109
+        },
+        {
+            "Date": "2025-04-30",
+            "Name": "DFA INVESTMENT TRUST CO-THE DFA INTERNATIONAL VALUE SERIES",
+            "Holding": 0.0005,
+            "Shares": 1909058
+        },
+        {
+            "Date": "2025-07-31",
+            "Name": "American Century ETF Trust-Avantis International Equity ETF",
+            "Holding": 0.0005,
+            "Shares": 1860088
+        },
+        {
+            "Date": "2025-04-30",
+            "Name": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
+            "Holding": 0.00029999999,
+            "Shares": 896402
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "SEI INSTITUTIONAL INTERNATIONAL TRUST-SIT International Equity Fund",
+            "Holding": 0.00029999999,
+            "Shares": 998405
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "SEI INSTITUTIONAL INVESTMENTS TRUST-SIIT World Equity EX-US Fund",
+            "Holding": 0.00029999999,
+            "Shares": 1037210
+        },
+        {
+            "Date": "2025-07-31",
+            "Name": "Fidelity Rutland Square Trust II-Strategic Advisers International Fund",
+            "Holding": 0.00029999999,
+            "Shares": 938827
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "Mercer Funds-Mercer Non-US Core Equity Fund",
+            "Holding": 0.0002,
+            "Shares": 558142
+        },
+        {
+            "Date": "2025-07-31",
+            "Name": "American Century World Mutual Funds, Inc.-Focused Global Growth Fund",
+            "Holding": 0.0002,
+            "Shares": 573960
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "Amplify ETF TRT-Amplify CWP Intl Enhanced Dividend Income ETF",
+            "Holding": 0.0001,
+            "Shares": 503151
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "About": {
+        "ID": "MSFT",
+        "Name": "Microsoft Corporation",
+        "Unique ID": "b004b3ec-de24-385e-b2c1-923f10d3fb62",
+        "Industry": "Software - Infrastructure",
+        "Sector": "Technology",
+        "Full Time employees": 228000,
+        "Website": "https://www.microsoft.com",
+        "Investor Website": "http://www.microsoft.com/investor/default.aspx",
+        "Exchange": "NMS"
+    },
+    "Finance": {
+        "Date & Time": "2025-09-17 01:30:01",
+        "Current Price": 509.04,
+        "Market Cap": 3783779155968,
+        "Total Revenue": 281723994112,
+        "Revenue Growth": 0.181,
+        "Profit Growth": 0.237,
+        "Dividend Rate": 3.64,
+        "Dividend Yield": 0.0072000003,
+        "Date of Last Dividend": "2025-11-20 05:30:00",
+        "Five Years Average Dividend Yield": 0.82,
+        "Currency": "USD"
+    },
+    "Location": {
+        "Address": "One Microsoft Way",
+        "City": "Redmond",
+        "State": "WA",
+        "Country": "United States",
+        "Contact": "425 882 8080"
+    },
+    "Ownership Structure": "Public",
+    "Growth": [
+        {
+            "Period": "0q",
+            "End Date": "2025-09-30",
+            "Growth": 0.1094
+        },
+        {
+            "Period": "+1q",
+            "End Date": "2025-12-31",
+            "Growth": 0.1748
+        },
+        {
+            "Period": "0y",
+            "End Date": "2026-06-30",
+            "Growth": 0.1378
+        },
+        {
+            "Period": "+1y",
+            "End Date": "2027-06-30",
+            "Growth": 0.1727
+        }
+    ],
+    "Buyer Group": [
+        {
+            "Name": "SCHARF CHARLES W",
+            "Relation": "Director",
+            "Shares": 125,
+            "Description": "Stock Award(Grant) at price 0.00 per share.",
+            "Date": "2025-09-10"
+        },
+        {
+            "Name": "LIST-STOLL TERI L",
+            "Relation": "Director",
+            "Shares": 125,
+            "Description": "Stock Award(Grant) at price 0.00 per share.",
+            "Date": "2025-09-10"
+        },
+        {
+            "Name": "MASON MARK A.L.",
+            "Relation": "Director",
+            "Shares": 125,
+            "Description": "Stock Award(Grant) at price 0.00 per share.",
+            "Date": "2025-09-10"
+        },
+        {
+            "Name": "STANTON JOHN W.",
+            "Relation": "Director",
+            "Shares": 125,
+            "Description": "Stock Award(Grant) at price 0.00 per share.",
+            "Date": "2025-09-10"
+        },
+        {
+            "Name": "NADELLA SATYA",
+            "Relation": "Chief Executive Officer",
+            "Shares": 149205,
+            "Description": "Sale at price 503.00 - 507.56 per share.",
+            "Date": "2025-09-03"
+        }
+    ],
+    "Mutual Fund Holders": [
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD INDEX FUNDS-Vanguard Total Stock Market Index Fund",
+            "Holding": 0.0322,
+            "Shares": 239000816
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD INDEX FUNDS-Vanguard 500 Index Fund",
+            "Holding": 0.028399998,
+            "Shares": 210974299
+        },
+        {
+            "Date": "2025-07-31",
+            "Name": "Fidelity Concord Street Trust-Fidelity 500 Index Fund",
+            "Holding": 0.0127,
+            "Shares": 94215020
+        },
+        {
+            "Date": "2025-07-31",
+            "Name": "SPDR S&P 500 ETF TRUST",
+            "Holding": 0.012200001,
+            "Shares": 90946680
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "iShares Trust-iShares Core S&P 500 ETF",
+            "Holding": 0.0117999995,
+            "Shares": 87985063
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD INDEX FUNDS-Vanguard Growth Index Fund",
+            "Holding": 0.0099,
+            "Shares": 73914664
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "Invesco QQQ Trust, Series 1",
+            "Holding": 0.0084,
+            "Shares": 62332893
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD INSTITUTIONAL INDEX FUNDS-Vanguard Institutional Index Fund",
+            "Holding": 0.0061000003,
+            "Shares": 45555194
+        },
+        {
+            "Date": "2025-05-31",
+            "Name": "VANGUARD WORLD FUND-Vanguard Information Technology Index Fund",
+            "Holding": 0.0045,
+            "Shares": 33225209
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "GROWTH FUND OF AMERICA",
+            "Holding": 0.0044,
+            "Shares": 32395729
+        }
+    ]
+}

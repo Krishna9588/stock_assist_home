@@ -1,0 +1,119 @@
+{
+    "About": {
+        "ID": "8058.T",
+        "Name": "Mitsubishi Corporation",
+        "Unique ID": "54cdcb14-818e-3cca-96f3-cae382eda70d",
+        "Industry": "Conglomerates",
+        "Sector": "Industrials",
+        "Full Time employees": "62062",
+        "Website": "https://www.mitsubishicorp.com",
+        "Investor Website": "http://www.mitsubishicorp.com/jp/en/ir/",
+        "Exchange": "JPX"
+    },
+    "Finance": {
+        "Date & Time": "2025-09-17 12:00:00",
+        "Current Price": "3460.0 \uffe5",
+        "Market Cap": "13114542129152 \uffe5",
+        "Total Revenue": "18150353534976 \uffe5",
+        "Revenue Growth": "-10.00 %",
+        "Profit Growth": "-40.70 %",
+        "Dividend Rate": 110.0,
+        "Dividend Yield": 0.0317,
+        "Date of Last Dividend": "2025-09-29 05:30:00",
+        "Five Years Average Dividend Yield": 3.52,
+        "Currency": "JPY"
+    },
+    "Location": {
+        "Address": "Mitsubishi Shoji Building",
+        "City": "Tokyo",
+        "State": "",
+        "Country": "Japan",
+        "Contact": "81 3 3210 2121"
+    },
+    "Ownership Structure": "Public",
+    "Growth": [
+        {
+            "Period": "0q",
+            "End Date": "2025-09-30",
+            "Growth": {}
+        },
+        {
+            "Period": "+1q",
+            "End Date": "2025-12-31",
+            "Growth": {}
+        },
+        {
+            "Period": "0y",
+            "End Date": "2026-03-31",
+            "Growth": {}
+        },
+        {
+            "Period": "+1y",
+            "End Date": "2027-03-31",
+            "Growth": {}
+        }
+    ],
+    "Buyer Group": [],
+    "Mutual Fund Holders": [
+        {
+            "Date": "2025-04-30",
+            "Name": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
+            "Holding": 0.013099999,
+            "Shares": 52794134
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
+            "Holding": 0.0072000003,
+            "Shares": 29181654
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "iShares Trust-iShares Core MSCI EAFE ETF",
+            "Holding": 0.0054,
+            "Shares": 21933600
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "iShares, Inc.-iShares MSCI Japan ETF",
+            "Holding": 0.0032,
+            "Shares": 12754800
+        },
+        {
+            "Date": "2025-04-30",
+            "Name": "J.P. Morgan Exchange-Traded Fund Trust-JPMorgan BetaBuilders Japan ETF",
+            "Holding": 0.0029,
+            "Shares": 11699500
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "iShares Trust-iShares MSCI EAFE ETF",
+            "Holding": 0.0029,
+            "Shares": 11629200
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "iShares Trust-iShares MSCI EAFE Value ETF",
+            "Holding": 0.0023999999,
+            "Shares": 9536600
+        },
+        {
+            "Date": "2025-04-30",
+            "Name": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Index Fd.",
+            "Holding": 0.0019,
+            "Shares": 7719216
+        },
+        {
+            "Date": "2025-05-31",
+            "Name": "SCHWAB STRATEGIC TRUST-Schwab International Equity ETF",
+            "Holding": 0.0019,
+            "Shares": 7723863
+        },
+        {
+            "Date": "2025-04-30",
+            "Name": "VANGUARD WHITEHALL Fd.S-Vanguard Intl Dividend Appreciation Index Fd.",
+            "Holding": 0.0017,
+            "Shares": 6813400
+        }
+    ]
+}

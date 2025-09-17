@@ -1,0 +1,155 @@
+{
+    "About": {
+        "ID": "ORCL",
+        "Name": "Oracle Corporation",
+        "Unique ID": "238bd614-c63c-3123-8e2f-66b49fcfafed",
+        "Industry": "Software - Infrastructure",
+        "Sector": "Technology",
+        "Full Time employees": "162000",
+        "Website": "https://www.oracle.com",
+        "Investor Website": "http://www.oracle.com/us/corporate/investor-relations/index.html",
+        "Exchange": "NYQ"
+    },
+    "Finance": {
+        "Date & Time": "2025-09-17 01:30:02",
+        "Current Price": "306.65 $",
+        "Market Cap": "871410368512 $",
+        "Total Revenue": "59017998336 $",
+        "Revenue Growth": "12.20 %",
+        "Profit Growth": "-1.90 %",
+        "Dividend Rate": 2.0,
+        "Dividend Yield": 0.0064999997,
+        "Date of Last Dividend": "2025-10-09 05:30:00",
+        "Five Years Average Dividend Yield": 1.35,
+        "Currency": "USD"
+    },
+    "Location": {
+        "Address": "2300 Oracle Way",
+        "City": "Austin",
+        "State": "TX",
+        "Country": "United States",
+        "Contact": "(737) 867-1000"
+    },
+    "Ownership Structure": "Public",
+    "Growth": [
+        {
+            "Period": "0q",
+            "End Date": "2025-11-30",
+            "Growth": 0.1076
+        },
+        {
+            "Period": "+1q",
+            "End Date": "2026-02-28",
+            "Growth": 0.16469999
+        },
+        {
+            "Period": "0y",
+            "End Date": "2026-05-31",
+            "Growth": 0.128
+        },
+        {
+            "Period": "+1y",
+            "End Date": "2027-05-31",
+            "Growth": 0.1839
+        }
+    ],
+    "Buyer Group": [
+        {
+            "Name": "SICILIA MICHAEL D",
+            "Relation": "Officer",
+            "Shares": "15880",
+            "Description": "Sale at price 254.48 per share.",
+            "Date": "2025-08-05"
+        },
+        {
+            "Name": "SICILIA MICHAEL D",
+            "Relation": "Officer",
+            "Shares": "183",
+            "Description": "Stock Award(Grant) at price 241.21 per share.",
+            "Date": "2025-08-04"
+        },
+        {
+            "Name": "SMITH MARIA",
+            "Relation": "Officer",
+            "Shares": "3375",
+            "Description": "",
+            "Date": "2025-08-04"
+        },
+        {
+            "Name": "SICILIA MICHAEL D",
+            "Relation": "Officer",
+            "Shares": "50000",
+            "Description": "",
+            "Date": "2025-08-04"
+        },
+        {
+            "Name": "MAGOUYRK CLAYTON M",
+            "Relation": "Officer",
+            "Shares": "62500",
+            "Description": "",
+            "Date": "2025-08-04"
+        }
+    ],
+    "Mutual Fund Holders": [
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD INDEX FUNDS-Vanguard Total Stock Market Index Fund",
+            "Holding": 0.019,
+            "Shares": 54104177
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD INDEX FUNDS-Vanguard 500 Index Fund",
+            "Holding": 0.0162,
+            "Shares": 46168043
+        },
+        {
+            "Date": "2025-07-31",
+            "Name": "Fidelity Concord Street Trust-Fidelity 500 Index Fund",
+            "Holding": 0.0073,
+            "Shares": 20616973
+        },
+        {
+            "Date": "2025-07-31",
+            "Name": "SPDR S&P 500 ETF TRUST",
+            "Holding": 0.0069999998,
+            "Shares": 19897078
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "iShares Trust-iShares Core S&P 500 ETF",
+            "Holding": 0.0068,
+            "Shares": 19253600
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD INDEX FUNDS-Vanguard Value Index Fund",
+            "Holding": 0.0052,
+            "Shares": 14903755
+        },
+        {
+            "Date": "2025-07-31",
+            "Name": "SELECT SECTOR SPDR TRUST-The Technology Select Sector SPDR Fund",
+            "Holding": 0.0046,
+            "Shares": 13099798
+        },
+        {
+            "Date": "2025-05-31",
+            "Name": "VANGUARD WORLD FUND-Vanguard Information Technology Index Fund",
+            "Holding": 0.0037,
+            "Shares": 10393058
+        },
+        {
+            "Date": "2025-06-30",
+            "Name": "VANGUARD INSTITUTIONAL INDEX FUNDS-Vanguard Institutional Index Fund",
+            "Holding": 0.0034999999,
+            "Shares": 9968725
+        },
+        {
+            "Date": "2025-04-30",
+            "Name": "First Eagle Funds-First Eagle Global Fund",
+            "Holding": 0.0031,
+            "Shares": 8840792
+        }
+    ]
+}

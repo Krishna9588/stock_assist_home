@@ -1,0 +1,72 @@
+{
+    "About": {
+        "ID": "TATAMOTORS.NS",
+        "Name": "Tata Motors Limited",
+        "Unique ID": "ddba5579-685b-35a6-8ca9-fdc0ae8f12f6",
+        "Industry": "Auto Manufacturers",
+        "Sector": "Consumer Cyclical",
+        "Full Time employees": "86259",
+        "Website": "https://www.tatamotors.com",
+        "Investor Website": "",
+        "Exchange": "NSI"
+    },
+    "Finance": {
+        "Date & Time": "2025-09-17 13:12:13",
+        "Current Price": "720.95 \u20b9",
+        "Market Cap": "2654552457216 \u20b9",
+        "Total Revenue": "4369999986688 \u20b9",
+        "Revenue Growth": "-3.40 %",
+        "Dividend Rate": 6.0,
+        "Dividend Yield": 0.0084,
+        "Date of Last Dividend": "2025-06-04 05:30:00",
+        "Five Years Average Dividend Yield": 1.11,
+        "Currency": "INR"
+    },
+    "Location": {
+        "Address": "Ahura Centre",
+        "City": "Mumbai",
+        "State": "",
+        "Country": "India",
+        "Contact": "91 22 6240 7101"
+    },
+    "Ownership Structure": "Public",
+    "Growth": [
+        {
+            "Period": "0q",
+            "End Date": "2025-09-30",
+            "Growth": 0.3514
+        },
+        {
+            "Period": "+1q",
+            "End Date": "2025-12-31",
+            "Growth": -0.0155
+        },
+        {
+            "Period": "0y",
+            "End Date": "2026-03-31",
+            "Growth": -0.2036
+        },
+        {
+            "Period": "+1y",
+            "End Date": "2027-03-31",
+            "Growth": 0.22659999
+        }
+    ],
+    "Buyer Group": [
+        {
+            "Name": "Ewart Investments Ltd",
+            "Relation": "Promoter",
+            "Shares": "440645",
+            "Description": "Other at price 0.00 per share.",
+            "Date": "2024-09-25"
+        },
+        {
+            "Name": "Ewart Investments Ltd",
+            "Relation": "Promoter",
+            "Shares": "299204",
+            "Description": "Other at price 13.29 per share.",
+            "Date": "2024-09-25"
+        }
+    ],
+    "Mutual Fund Holders": []
+}
